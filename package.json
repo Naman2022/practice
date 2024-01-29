@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "name": "practice",
+  "description": "��#\u0000 \u0000p\u0000r\u0000a\u0000c\u0000t\u0000i\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
